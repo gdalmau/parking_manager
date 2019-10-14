@@ -18,6 +18,8 @@ pip3 install .
 
 From the root of [manage.py](https://github.com/gdalmau/parking_manager/tree/master/parking_manager/manage.py).
 
+`cd parking_manager`
+
 1. Create the database
 
 ```bash
