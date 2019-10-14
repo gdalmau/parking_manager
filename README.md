@@ -5,7 +5,7 @@ App to manage parking spots and make reservations
 # Installing the requirements
 
 1. Clone the repository:
-`git clone`
+`git clone git@github.com:gdalmau/parking_manager.git`
 
 2. Create a virtual environment with Python 3.X (in the example Python 3.7):
 ```bash
