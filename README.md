@@ -23,13 +23,13 @@ From the root of [manage.py](https://github.com/gdalmau/parking_manager/tree/mas
 1. Create the database
 
 ```bash
-django manage.py migrate
+python manage.py migrate
 ```
 
 2. Load the data
 
 ```bash
-django manage.py loaddata parking_app/fixtures/*.json
+python manage.py loaddata parking_app/fixtures/*.json
 ```
 
 
@@ -38,7 +38,7 @@ django manage.py loaddata parking_app/fixtures/*.json
 Run the server with:
 
 ```bash
-django manage.py runserver
+python manage.py runserver
 ```
 
 
