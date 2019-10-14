@@ -84,3 +84,13 @@ Returns HTTP status 201 with the information of the reservation created:
 
 #### GET /api/reservations
 Returns HTTP status 201 with all the reservations information
+
+
+# Improvements
+
+- Create tests for the API and integrate with a CI tool like https://travis-ci.org/
+- Integrate with Docker
+- Create a simple frontend where the users can:
+    - Register and login
+    - Check the availability times of the parking
+    - Make their own reservations
