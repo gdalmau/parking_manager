@@ -1,0 +1,11 @@
+[
+{
+    "model": "parking_app.customer",
+    "pk": 1,
+    "fields": {
+        "name": "Customer test name",
+        "phone": "123456789",
+        "created_at": "2019-10-14T09:06:26.127Z"
+    }
+}
+]

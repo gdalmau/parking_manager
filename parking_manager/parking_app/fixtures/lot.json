@@ -1,0 +1,72 @@
+[
+{
+    "model": "parking_app.spot",
+    "pk": 1,
+    "fields": {
+        "number": 1
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 2,
+    "fields": {
+        "number": 2
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 3,
+    "fields": {
+        "number": 3
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 4,
+    "fields": {
+        "number": 4
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 5,
+    "fields": {
+        "number": 5
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 6,
+    "fields": {
+        "number": 6
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 7,
+    "fields": {
+        "number": 7
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 8,
+    "fields": {
+        "number": 8
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 9,
+    "fields": {
+        "number": 9
+    }
+},
+{
+    "model": "parking_app.spot",
+    "pk": 10,
+    "fields": {
+        "number": 10
+    }
+}
+]
