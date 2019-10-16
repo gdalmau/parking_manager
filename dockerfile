@@ -8,5 +8,5 @@ WORKDIR /parking_manager
 
 ADD . /parking_manager/
 
-RUN pip install -r requirements.txt
+RUN pip install .
 
