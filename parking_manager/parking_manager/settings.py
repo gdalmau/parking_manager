@@ -25,7 +25,7 @@ SECRET_KEY = 'weq=_=(wztg^6^-s7-b&od1r#vs6a1bjsc#cn%e*1c5tu8-%g8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0']
 
 
 # Application definition
