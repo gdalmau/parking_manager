@@ -41,6 +41,12 @@ Run the server with:
 python manage.py runserver
 ```
 
+## Docker
+
+```bash
+docker-compose up
+
+```
 
 # Endpoints
 
